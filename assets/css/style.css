@@ -403,21 +403,21 @@ footer a:hover {
         display: none;
     }
 
-    .desktop-nav .menu-items {
+    .dekstop-nav .menu-items {
         display: none;
     }
 
-    .desktop-nav {
+    .dekstop-nav {
         width: calc(100% - 16px);
         margin-left: 8px;
         padding: 4px 30px;
     }
 
-    .desktop-nav .logo img {
+    .dekstop-nav .logo img {
         height: 36px;
     }
 
-    .desktop-nav .menu-icon {
+    .dekstop-nav .menu-icon {
         display: block;
         cursor: pointer;
     }
